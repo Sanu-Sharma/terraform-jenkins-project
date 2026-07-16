@@ -147,19 +147,19 @@ DevOps by Sanu Kumar
 
 ### Jenkins Pipeline Success
 
-(Add Screenshot)
+![Jenkins Pipeline](screenshots/jenkins-pipeline-success.png)
 
 ### DockerHub Repository
 
-(Add Screenshot)
+![DockerHub Repository](screenshots/dockerhub-repository.png)
 
 ### Docker Pull Success
 
-(Add Screenshot)
+![Docker Pull](screenshots/docker-pull-success.png)
 
 ### Container Logs
 
-(Add Screenshot)
+![Container Logs](screenshots/container-logs.png)
 
 ---
 
