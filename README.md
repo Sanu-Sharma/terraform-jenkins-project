@@ -185,3 +185,18 @@ https://github.com/Sanu-Sharma
 
 DockerHub:
 https://hub.docker.com/u/sanukumar2
+
+## Jenkins Installation on EC2
+
+Connected to the EC2 instance and installed Jenkins manually using:
+
+```bash
+sudo apt update -y
+
+sudo apt install -y openjdk-21-jdk
+
+sudo wget -O /opt/jenkins.war \
+https://get.jenkins.io/war-stable/latest/jenkins.war
+
+sudo java -jar /opt/jenkins.war --httpPort=8080 &
+```
