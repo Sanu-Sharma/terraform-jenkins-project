@@ -140,27 +140,6 @@ Output:
 Hello from Docker Container!
 DevOps by Sanu Kumar
 ```
-
----
-
-## 📸 Screenshots
-
-### Jenkins Pipeline Success
-
-![Jenkins Pipeline](screenshots/jenkins-pipeline-success.png)
-
-### DockerHub Repository
-
-![DockerHub Repository](screenshots/dockerhub-repository.png)
-
-### Docker Pull Success
-
-![Docker Pull](screenshots/docker-pull-success.png)
-
-### Container Logs
-
-![Container Logs](screenshots/container-logs.png)
-
 ---
 
 ## 📖 Learning Outcomes
